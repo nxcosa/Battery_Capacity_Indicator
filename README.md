@@ -5,7 +5,7 @@ Contains the Following:<br>
 * SVG FIT0466.SVG<br>
 * Battery_Capacity_Indicator schematic.pdf<br>
 * FIT0466_LINE.PNG
-* FIT0466_CONNECT.PNG
+* FIT0466_CONNECT.PNG<BR>
 [Get the sensor here] ()
 
 # To Download, please click "Download ZIP"
